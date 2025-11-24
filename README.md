@@ -28,6 +28,6 @@ This project is beginner-friendly and ideal for school or college-level Python a
 - Uses only core Python features  
 
 ## Made By
-Hraday Singh Bisen
+   Hraday Singh Bisen
 ---
 
